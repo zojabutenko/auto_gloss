@@ -1,0 +1,262 @@
+100	
+101	
+102	
+103	
+104	
+105	
+107	
+108	
+109	
+110	
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	
+128	
+129	
+130	
+131	
+132	
+133	
+134	
+135	
+137	
+138	
+139	
+140	
+141	
+142	
+143	
+144	
+145	
+147	
+148	
+149	
+150	
+151	
+152	
+153	
+154	
+156	
+157	
+159	
+160	
+161	
+162	
+163	
+164	
+165	
+166	
+167	
+168	
+169	
+170	
+171	
+172	
+173	
+175	
+177	
+178	
+179	
+180	
+181	
+182	
+183	
+184	
+185	
+186	
+187	
+188	
+189	
+190	
+191	
+192	
+193	
+194	
+195	
+196	
+197	
+198	
+199	
+200	
+201	
+202	
+204	
+205	
+208	
+95	
+96	
+97	
+98	
+Adj	ADJ
+Adj-Сmp/VP	ADJ-Сmp/VP
+Adj/Adv	ADJ/ADV
+Adv	ADV
+Adv-Cmp	ADV-Cmp
+Adv-Cmp/Adj-Cmp	ADV-CmpADJ-Cmp
+Cl	Cl
+Cl/на	Cl/on
+Cop	COP
+NP	NP
+NP-Acc	NP-ACC
+NP-Dat	NP-DAT
+NP-Gen	NP-GEN
+NP-GenPl	NP-GEN.Pl
+NP-Loc	NP-LOC
+NP-Nom	NP-NOM
+NP-NomSg	NP-NOM.Sg
+NP/VP	NP/VP
+NumCrd-Acc	NUMCRD-ACC
+NumCrd-Gen	NUMCRD-GEN
+Pred	PRED
+Pred/AdjShort/не	PRED/ADJ.Short/NEG
+PronInt	PronInt
+PronPers-2Dat	PronPers-2.DAT
+PronPers-Dat	PronPers-DAT
+PronPers-Gen	PronPers-GEN
+VP	VP
+VP-Fut	VP-FUT
+VP-Fut1Pl	VP-FUT.1.Pl
+VP-Imp	VP-IMP
+VP-Inf	VP-INF
+VP-InfIpfv	VP-INF.IPFV
+VP-IpfvInf	VP-IPFV.INF
+VP-PfvInf	VP-PFV.INF
+VP-Pst	VP-PST
+VP/Cl	VP/Cl
+XP	XP
+XP/Cl	XP/Cl
+ХP	XP
+Я	I
+а	but
+бо-юсь	afraid-PRS.1SG
+будто	CMPR.PTCL
+бы	COND
+бы-ть	BE-INF
+быть	BE
+в	IN
+вздума-й	think.OBSOLETE-IMP.SG
+вид-∅	appearance-ACC.SG
+вроде	like
+всегда	always
+грех-∅	sin-NOM.SG
+дава-йте	let<give-IMP.2SGPL
+даже	even
+далеко	far
+даром	even_though<gift.INS.SG
+дать-Imp	let<give-IMP
+дева-ть-ся	go<disappear-INF-REFL
+дел-о	deal-NOM.SG
+дела-ть	DO-INF
+делать	DO
+деньг-и	money-PL
+держ-у	hold-PRS.1SG
+держать	hold
+до	to
+довольно	enough<satisfied.OBSOLETE
+должн-о	must-SG.N
+долой	away.OBSOLETE
+друг-ой	different-NOM.SG
+дума-й/	think-IMP.SG/
+едва	barely
+еле	barely
+ещё	also
+же	FOC.PTCL
+за	for
+за-Verb	ALL-Verb
+здоров	big.SHORThealthy-SHORT
+знать	know
+и	and
+из	from
+из-за	because_of
+известн-о	be_known.ADJ-SHORT.SG.N
+именно	exactly
+ин-ой	other-NOM.SG
+иначе	otherwise
+к	to
+к-ого	who.PRON.INT-ACC.SG
+кажд-ый/всякий	every-NOM.SG.Many-NOM.SG.M
+как	as<how
+как-ой/как-ое	which-NOM.SG.M/which-NOM.SG.N
+как-то/что-то	how-INDEFwhat-INDEF
+како-в	which-SHORT
+какое	which.PRON.INT-NOM.SG.N
+какой	which.PRON.INT
+какой/какое	which-NOM.SG.M/which.-NOM.SG.N
+ко-му	who.PRON.INT-DAT.SG
+когда	when
+когда/как	when/as
+краснеть	redden
+кроме	except
+кто-то/что-то	who-INDEFwhat-INDEF
+кто/что	who.PRON.INTwhat.PRON.INT
+куда	way_more<where
+ладно	INE<harmonious.SHORT.N
+легко	easy
+ли	Q.PTCL
+лучше	good.CMP
+мало	little
+мастак/мастер	masterOBSOLETE/master
+мест-е	place-LOC.SG
+месте	place-LOC.SG
+мож-ет	can-PRS.3SG
+мочь	can
+мочь-Pst	can-PST
+на	on
+надо	needed
+наи-Аdj-ший	SUPLADJ-SUPL
+наиболее/наименее	most/least
+найти-Pst	find-PST
+насчёт	about
+начать	begin
+не	NEG
+некуда	nowhere
+нельзя	prohibited
+нечего	nothing
+нечего/	nothing/
+ни	NEG
+но/так	but/such.ADV
+основ-е	basis-LOC.SG
+пари	bet.ACC.SG
+по	by
+пор-∅	time.OBSOLETE-GEN.PL
+при	by
+принимать	take
+пройти	pass
+раз-∅	time-NOM.SG
+рубл-ей	ruble-GEN.PL
+сдаваться-Pst	?need.PASS-PST
+себ-е	PRON.REFL-LOC
+си-х	this.OBSOLETE-GEN.PL
+сказа-ть	say-INF
+сме-й	dare-IMP.SG
+совсем	completely
+сто-ит	worth-PRS.3SG
+так	such.ADV
+такой	such.PRON
+там	PTCL
+то	that
+то-го	that.PRON-GEN.SG
+ты	you
+угодно	any.PTCL<acceptable.OBSOLETE.PRED
+уж	FOC.PTCL
+ужас-у/счасть-ю	terror-DAT.SGhappiness-DAT.SG
+че-го	what-GEN.SG
+че-му	what-DAT.SG
+что	what
+чёрт-у	devil-DAT.SG
+это	this
+этот	this

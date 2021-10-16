@@ -1,0 +1,208 @@
+95. 	грех-∅ 		Cop 	не 	VP-Pfv.Inf!
+	sin-NOM.SG 	Cop 	NEG 	VP-Pfv.Inf
+96.	дава-й(те) 			VP-Fut.1.Pl!
+	let<give-IMP.2SG(PL)	VP-Fut.1.Pl
+97. 	дать-Imp 	(ты) 	(NP-Dat) VP-Inf!
+	let<give-IMP	(you)	(NP-Dat) VP-Inf
+98.	(с)даваться-Pst	PronPers-Dat 	этот 	NP-Nom!
+	(?)need.PASS-PST 	PronPers-Dat	this	NP-Nom
+100.	далеко	до 	NP-Gen
+	far	to	NP-Gen
+101.	далеко не 	Adj/Adv
+	far	NEG	Adj/Adv
+102.	(Cl,) 	даром 				что 	Cl
+	(Cl)	even_though<gift.INS.SG	what	Cl
+103.	NP-Nom 	делать	вид-∅, 			что 			Cl
+	NP-Nom	do	appearance-ACC.SG	COMP<what		Cl
+104.	дела-ть 	нечего/	некуда 	дева-ть-ся, 		Cl
+	do-INF	nothing/	nowhere	go<disappear-INF-REFL	Cl
+105.	дела-ть 	PronPers-Dat 	Cop 	нечего!
+	do-INF	PronPers-Dat	Cop	nothing
+107. 	дел-о 			Cop не 	в 	NP-Loc (, а в 	NP-Loc)!
+	deal-NOM.SG		Cop NEG	in	NP-Loc (but in NP-Loc)
+108. 	деньг-и 	на 		NP-Acc
+	money-PL	on		NP-Acc
+109.	NP-Nom держать 	NP-Acc 	при 	себ-е
+	NP-Nom hold 	NP-Acc	by	PRON.REFL-LOC
+110. 	держ-у 		пари,		(что) 		Cl
+	hold-PRS.1SG	bet.ACC.SG	(COMP<what)	Cl
+111.	до 	си-х 			пор-∅ 			Cl
+	to	this.OBSOLETE-GEN.PL	time.OBSOLETE-GEN.PL	Cl
+112.	до 	че-го 		(же) 		XP
+	to	what-GEN.SG	(FOC.PTCL)	XP
+113.	до 	NP-Gen Cl
+	to	NP-Gen Cl
+114.	довольно 			(PronPers-2.Dat) VP-Ipfv.Inf!
+	enough<satisfied.OBSOLETE		(PronPers-2.Dat) VP-Ipfv.Inf
+115.	должн-о 	быть, 	Cl
+	must-SG.N	be	Cl
+116.	долой 		NP-Acc!
+	away.OBSOLETE	NP-Acc
+117. 	NP-Nom Cop (совсем) 	друг-ой 		NP-Nom.Sg
+	NP-Nom Cop (completely)	different-NOM.SG	NP-Nom.Sg
+118.	едва 	(ли) 		не 	ХP
+	barely	(Q.PTCL)		NEG	XP
+119.	едва 	ли 		XP/Cl
+	barely	Q.PTCL		XP/Cl
+120.	едва 	не 	VP-Pst
+	barely	NEG	VP-Pst
+121.	еле 	XP
+	barely	XP
+122.	Cl,	ещё 		(и) 	Cl!
+	Cl	also		(and)	Cl
+123.	ещё 	бы 		Cl!
+	also	COND		Cl
+124.	ещё 	Adv-Cmp/Adj-Cmp
+	also	Adv-Cmp/Adj-Cmp
+125.	ещё 	VP-Fut
+	also	VP-Fut
+126.	за 	к-ого 			NP-Nom NP-Acc 	принимать?
+	for	who.PRON.INT-ACC.SG	NP-Nom NP-Acc	take
+127.	VP за 	NP-Acc
+	VP for	NP-Acc
+128.	за 	NumCrd-Acc NP-Gen.Pl
+	for 	NumCrd-Acc NP-Gen.Pl
+129.	NP/VP за 	NumCrd-Acc рубл-ей
+	NP/VP for 	NumCrd-Acc ruble-GEN.PL
+130.	NP-Nom за-Verb 		VP-Pfv.Inf
+	NP-Nom ALL-Verb 		VP-Pfv.Inf
+131.	NP-Nom Cop здоров			VP-Inf
+	NP-Nom Cop big.SHORT<healthy-SHORT	VP-Inf
+132.	NP-Nom знать NP-Gen по 	NP-Dat
+	NP-Nom know NP-Gen by 	NP-Dat
+133.	VP из 		NP-Gen (к 	NP-Dat)
+	VP from		NP-Gen (to 	NP-Dat)
+134.	Cl из-за 		NP-Gen
+	Cl because_of		NP-Gen
+135.	именно XP
+	exactly XP
+137.	к 	ужас-у/счасть-ю 			NP-Gen, Cl
+	to	terror-DAT.SG/happiness-DAT.SG	NP-Gen, Cl
+138.	к 	че-му 		Cl
+	to	what-DAT.SG	Cl
+139.	кажд-ый/всякий 			раз-∅ 			VP,	(когда/как	Cl)
+	every-NOM.SG.M/any-NOM.SG.M	time-NOM.SG		VP	(when/as		Cl)
+140.	как 	всегда XP
+	as	always XP
+141.	как 	известн-о, 		Cl
+	as	be_known.ADJ-SHORT.SG.N	Cl
+142.	как 	(NP-Dat) не 	Pred	Cop	VP-Inf!
+	how	(NP-Dat) NEG	Pred	Cop	VP-Inf
+143.	как 	будто 		XP/Cl
+	as	CMPR.PTCL	XP/Cl
+144.	((Я) 	бо-юсь,) 	как 	бы 		(NP-Dat)		не 	VP-Pfv.Inf
+	((I)	afraid-PRS.1SG)	how	COND		(NP-Dat)		NEG	VP-Pfv.Inf
+145.	как 	бы 		ни 	VP-Pst, Cl
+	how	COND		NEG	VP-Pst Cl
+147.	как 	насчёт	XP?
+	how	about	XP
+148.	NP-Nom как начать	VP-Inf!
+	NP-Nom how begin		VP-Inf
+149.	как Cop не 	VP-Inf!
+	how Cop NEG	VP-Inf
+150.	как 	нельзя 		Adv-Cmp VP
+	how	prohibited	Adv-Cmp VP
+151.	как	ни 	VP,	(а)		Cl
+	how	NEG	VP	(but) 	Cl
+152.	как 	это 	XP/Cl?
+	how	this	XP/Cl
+153.	как 	XP, 	так 	и 	XP
+	how	XP	so	and	XP
+154.	как VP/Cl, 	так 	и 	VP/Cl
+	how VP/Cl	so	and	VP/Cl
+156.	как-то/что-то 		Cl
+	how-INDEF/what-INDEF	Cl
+157.	како-в 			Cop 	NP-Nom!
+	which-SHORT		Cop 	NP-Nom
+159.	какой 			(там) 	NP!
+	which.PRON.INT		(PTCL)	NP
+160.	какой 			ещё 	NP
+	which.PRON.INT		also	NP
+161.	какой 			из 	NP-Gen	Cop	NP-Nom?!
+	which.PRON.INT		from	NP-Gen	Cop	NP-Nom
+162.	какой 			такой 	NP
+	which.PRON.INT		such	NP
+163.	как-ой/как-ое 			там	VP-Pst!
+	which-NOM.SG.M/which-NOM.SG.N	PTCL	VP-Pst
+164.	какой 	угодно 					NP
+	which	any.PTCL<acceptable.OBSOLETE.PRED		NP
+165.	какой/какое 			(там) 	VP-Ipfv.Inf!
+	which-NOM.SG.M/which.-NOM.SG.N	(PTCL)	VP-Ipfv.Inf
+166.	какой, 		к 	чёрт-у,		NP!
+	which.PRON.INT	to	devil-DAT.SG	NP
+167.	когда 	бы 		NP-Nom	ни 	VP-Pst,	Cl
+	when	COND		NP-Nom	NEG	VP-Pst	Cl
+168.	ко-му 			какое 			дел-о 		Cop	до	NP-Gen
+	who.PRON.INT-DAT.SG	which.PRON.INT-NOM.SG.N	deal-NOM.SG	Cop	to	NP-Gen
+169.	NP-Nom краснеть 	за 	NP-Acc
+	NP-Nom redden 	for 	NP-Acc
+170.	кроме 	то-го 			Cl
+	except	that.PRON-GEN.SG		Cl
+171.	кто-то/что-то 		вроде 	NP-Gen
+	who-INDEF/what-INDEF	like	NP-Gen
+172.	NP-Nom Cop куда 			Adj-Сmp/VP	куда 		Adv-Cmp
+	NP-Nom Cop way_more<where 	Adj-Сmp/VP	way_more<where 	Adv-Cmp
+173.	куда 		(там) 	NP-Dat Cop до 	NP-Gen
+	way_more<where	(PTCL)	NP-Dat Cop to	NP-Gen
+175.	ладно			(бы) 		XP/Cl,	но/так 		XP/Cl!
+	fine<harmonious.SHORT.N	(COND)		XP/Cl	but/such.ADV	XP/Cl
+177.	ладно 			PronPers-2.Dat VP-Ipfv.Inf!
+	ine<harmonious.SHORT.N	PronPers-2.Dat VP-Ipfv.Inf
+178.	легко 	сказа-ть 	VP-Imp
+	easy	say-INF		VP-Imp
+179.	лучше 		(не) 	VP-Imp
+	good.CMP		(NEG)	VP-Imp
+180.	мало 	ли 	PronInt VP
+	little	Q.PTCL	PronInt VP
+181.	мастак/мастер 			на 	NP-Acc
+	master.OBSOLETE/master		on	NP-Acc
+182.	мож-ет 		(бы-ть), 	Cl
+	can-PRS.3SG	(be-INF)		Cl
+183.	NP-Nom мочь-Pst бы 	и 	не 	VP-Inf.Ipfv
+	NP-Nom can-PST COND 	and 	NEG 	VP-Inf.Ipfv
+184.	NP-Nom мочь-Pst бы 	и 	VP-Inf
+	NP-Nom can-PST COND 	and	VP-Inf
+185.	VP на 	основ-е 		NP-Gen
+	VP on	basis-LOC.SG	NP-Gen
+186.	на 	что 	NP-Dat Cop NP-Nom?
+	on	what	NP-Dat Cop NP-Nom
+187.	VP на 	NumCrd-Acc	рубл-ей
+	VP on	NumCrd-Acc	ruble-GEN.PL
+188.	на 	PronPers-Gen мест-е 		Cl/на 	месте 		NP-Gen Cl бы
+	on	PronPers-Gen place-LOC.SG		Cl/on	place-LOC.SG	NP-Gen Cl COND
+189.	надо 	же 	Cop (NP-Dat) VP-Inf
+	needed	FOC.PTCL	Cop (NP-Dat) VP-Inf
+190.	надо 	же, 		Cl
+	needed	FOC.PTCL		Cl
+191.	наи-Аdj-ший 	из 	NP-Gen.Pl
+	SUPL-ADJ-SUPL	from	NP-Gen.Pl
+192.	наиболее/наименее 	Adj 	из 	NP-Gen.Pl
+	most/least		Adj	from	NP-Gen.Pl
+193.	найти-Pst 	NP-Acc!
+	find-PST		NP-Acc
+194.	даже 	не 	дума-й/		(даже) не 	вздума-й 		VP-Inf!
+	even	NEG	think-IMP.SG/	(even) NEG	think.OBSOLETE-IMP.SG	VP-Inf
+195.	(NP-Dat) не 		грех-∅ 		Cop	и 	VP-Pfv.Inf
+	(NP-Dat) NEG		sin-NOM.SG 	Cop	and	VP-Pfv.Inf
+196.	не 	иначе 		как 	XP
+	NEG	otherwise	how	XP
+197.	не 	кто/что 				ин-ой, 			как NP
+	NEG	who.PRON.INT/what.PRON.INT	other-NOM.SG		how NP
+198.	NP-Nom не 		мочь	 не 	VP-Inf
+	NP-Nom NEG		can	 NEG 	VP-Inf
+199.	не 	пройти	и 	(NumCrd-Gen) NP-Gen,	как 	Cl
+	NEG	pass	and	(NumCrd-Gen) NP-Gen	as<how 	Cl
+200.	не 	сме-й 		VP-Ipfv.Inf!
+	NEG	dare-IMP.SG	VP-Ipfv.Inf
+201.	(не) 	совсем 	VP-Pst
+	(NEG)	completely	VP-Pst
+202.	(NP-Dat)	не	сто-ит 		VP-Ipfv.Inf
+	(NP-Dat) NEG	worth-PRS.3SG 	VP-Ipfv.Inf
+204.	NP-Nom Cop не 	так 		(уж 		и)	Pred/Adj.Short/не 	так 		(уж и) 		Adv VP
+	NP-Nom Cop NEG 	such.ADV 	(FOC.PTCL	and)	Pred/Adj.Short/NEG 	such.ADV 	(FOC.PTCL and)	Adv VP
+205.	не	такой 		уж 		и 	Adj
+	NEG	such.PRON	FOC.PTCL 	and	Adj
+207.	не 	то 	чтобы 		XP/Cl,	а/но 	XP/Cl
+	NEG	that	in_order_to.PTCL	XP/Cl	but/but	XP/Cl	
+208.	не 	то 	XP, 	не 	то 	XP
+	NEG	that	XP	NEG	that	XP
